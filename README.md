@@ -52,4 +52,8 @@ I will now fix both of these issues.
 
  This two-step fix has resolved the errors and stabilized the script.
 
+ I will do this for all relevant functions.
+
+ That completes the refactoring
+
 
