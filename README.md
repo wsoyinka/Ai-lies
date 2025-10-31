@@ -30,4 +30,12 @@ Added debug output throughout
 
 Let me make a DIFFERENT change
 
+The real issue is simple
+
+Fixed!
+
+The code should now run.
+
+I see multiple issues. Let me fix them all
+
 
